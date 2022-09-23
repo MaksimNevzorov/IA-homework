@@ -18,3 +18,10 @@ for (let i = 0; i < 8; i++){
     if ( i % 2 == 0) console.log(even);
     else console.log(odd);
 }
+
+// Сотка
+
+let num
+do {
+    num = +prompt('Введите число больше 100', '')
+} while ( num <= 100 && num)
