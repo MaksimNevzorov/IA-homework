@@ -1,1 +1,1 @@
-# IA-homework
+# mentoring-simple-webpack-starter
